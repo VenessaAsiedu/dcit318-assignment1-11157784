@@ -21,7 +21,7 @@ Determines the price of a movie ticket depending on the customer’s age:
 - Discounted price (**GHC 7**) for senior citizens (65 and above) or children (12 and under).
 
 ### 3. Triangle Type Identifier
-Accepts three side lengths and classifies the triangle type:
+Accepts three side lengths and classifies triangle type:
 - **Equilateral** → All three sides equal  
 - **Isosceles** → Exactly two sides equal  
 - **Scalene** → All sides of different lengths  
