@@ -3,7 +3,6 @@
 ## Student Details
 - **Name:** Venessa Asiedu
 - **ID:** 11157784
-- **Email:** vasiedu010@st.ug.edu.gh
 
 ## Overview
 This repository contains three individual C# console applications developed as part of **DCIT 318: Programming II Assignment 1**.
